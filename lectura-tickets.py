@@ -9,4 +9,5 @@ class Ticket():
         self.hora = hora
         self.precio = precio
         self.contenido = contenido
+        self.ruta = ruta 
         
